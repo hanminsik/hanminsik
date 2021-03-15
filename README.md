@@ -25,11 +25,7 @@ Lived in China for 6 years and graduated from Nanjing University in China.
 <img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/> <img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/> <img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 
-<br>
-
 ---
-
-<br>
 <details>
     <summary> 🔥 &nbsp;Streak </summary>
 
