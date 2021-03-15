@@ -24,6 +24,8 @@ I'm HAN Minsik.
 #### 🖥️ Equipment
 <img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
+---
+
 #### 🔥 &nbsp;Streak
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
 
