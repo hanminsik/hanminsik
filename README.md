@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 
-I'm Game Developer, Pixel Artist, Gamer, and Blood Donor.
+I'm a Game Developer, Pixel Artist, Gamer, and Blood Donor.
 <br>
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
