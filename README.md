@@ -1,7 +1,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - Languages : 
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
 - ⚙️ &nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
