@@ -5,7 +5,7 @@ I'm a Game Developer, Pixel Artist, Gamer, and Blood Donor.
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
 Lived in China for 6 years and graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China.
-Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Korea/@38.0613967,119.620893,5.01z/data=!4m5!3m4!1s0x357ca2012d5c39cf:0x7e11eca1405bf29b!8m2!3d37.566535!4d126.9779692?hl=en).
+Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Korea/@34.1637948,97.7937369,3.19z/data=!4m5!3m4!1s0x357ca2012d5c39cf:0x7e11eca1405bf29b!8m2!3d37.566535!4d126.9779692?hl=en).
 
 ### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
