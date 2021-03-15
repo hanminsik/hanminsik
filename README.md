@@ -2,7 +2,7 @@
 <h2 align="center">Game Developer | Pixel Artist | Entrepreneur</h2>
 <h2 align="center">Gamer | Chess Enthusiast | Blood Donor(every two weeks)</h2>
 
-I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Chess Enthusiast, Blood Donor(every two weeks).
+I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Chess Enthusiast, Blood Donor.
 <br>
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
