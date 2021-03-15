@@ -1,5 +1,8 @@
 ## 😀 Hello!
 
+I'm Game Developer, Entrepreneur, Blood Donor(every two weeks), Chess Enthusiast.
+I lived in China for 6 years and graduated from Nanjing University in China.
+
 <br>
 <br>
 
