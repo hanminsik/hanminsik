@@ -1,6 +1,6 @@
 ## 😀 Hello!
 
-I'm Game Developer, Pixel Artist, Entrepreneur, Blood Donor(every two weeks), Gamer, Chess Enthusiast.
+I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Chess Enthusiast, Blood Donor(every two weeks).
 <br>
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
