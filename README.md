@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Rider-fc0d3d?&style=for-the-badge&logo=rider&logoColor=white"/>
 
 #### 🎨 Design
-<img src="https://img.shields.io/badge/aseprite-7D929E?&style=for-the-badge&logo=aseprite%20xd&logoColor=white"/>
+<img src="https://img.shields.io/badge/aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite%20xd&logoColor=white"/>
 <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 #### 🛠 Tool
