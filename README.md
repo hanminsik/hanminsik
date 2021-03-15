@@ -5,7 +5,6 @@ I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Blood Donor.
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
 Lived in China for 6 years and graduated from Nanjing University in China.
-<br>
 Now I live in Seoul, South Korea.
 
 #### 🚀 &nbsp;Language
