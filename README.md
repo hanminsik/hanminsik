@@ -15,6 +15,9 @@
 
 <img src="https://img.shields.io/badge/github%20-212121.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
+#### 🖥️ Equipment
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+
 #### 🔥 &nbsp;Streak
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
 
