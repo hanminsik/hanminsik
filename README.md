@@ -6,7 +6,6 @@ Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
 Lived in China for 6 years and graduated from Nanjing University in China.
 
-<br>
 
 #### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
