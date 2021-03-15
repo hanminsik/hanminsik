@@ -1,9 +1,10 @@
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
+Languages:
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
 <br>
+Game Engine:
 <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 <br>
+IDE:
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-212121.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Rider-fc0d3d?&style=for-the-badge&logo=rider&logoColor=white"/>
