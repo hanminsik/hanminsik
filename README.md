@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/github%20-212121.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
 #### 🖥️ Equipment
-<img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G_Picasso-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
 #### 🔥 &nbsp;Streak
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
