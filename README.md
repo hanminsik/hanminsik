@@ -2,6 +2,8 @@
 
 I'm Game Developer, Entrepreneur, Blood Donor(every two weeks), Game Enthusiast, Chess Enthusiast.
 <br>
+I served in the Republic of Korea Army and was an armored vehicle pilot.
+<br>
 I lived in China for 6 years and graduated from Nanjing University in China.
 
 <br>
