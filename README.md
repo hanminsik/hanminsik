@@ -1,6 +1,4 @@
-### 👋 Hi there
-
-I'm HAN Minsik.
+### 👋 Hello! I'm HAN Minsik.
 
 <br>
 
