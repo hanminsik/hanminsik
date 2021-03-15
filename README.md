@@ -19,10 +19,6 @@
 #### 🎨 &nbsp;Design
 <img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
-#### 🛠 &nbsp;Tool
-
-<img src="https://img.shields.io/badge/github%20-212121.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-
 #### 🖥️ Equipment
 <img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
