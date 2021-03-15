@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 <h2 align="center">Game Developer | Pixel Artist | Entrepreneur</h2>
 <h4 align="center">Gamer | Chess Enthusiast | Blood Donor(every two weeks)</h4>
