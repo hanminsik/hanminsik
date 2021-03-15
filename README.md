@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/github%20-212121.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
 
- <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
 
 <!--START_SECTION:waka-->
