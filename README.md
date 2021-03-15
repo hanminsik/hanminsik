@@ -1,3 +1,7 @@
+# Hi there
+
+I'm HAN Minsik.
+
 #### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
 
