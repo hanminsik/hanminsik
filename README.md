@@ -43,7 +43,12 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 </details>
+---
+<details>
+    <summary> 🔥 &nbsp;Etc...</summary>
 
+- Member of Mensa Korea
 
+</details>
 
 
