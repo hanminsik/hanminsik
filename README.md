@@ -27,7 +27,7 @@ Lived in China for 6 years and graduated from Nanjing University in China.
 
 ---
 <details>
-    <summary> 🔥 &nbsp;Streak </summary>
+    <summary> 🔥 &nbsp;Commit Streak</summary>
 
 <br>
 
