@@ -5,7 +5,6 @@ I'm Game Developer, Entrepreneur, Blood Donor(every two weeks), Chess Enthusiast
 I lived in China for 6 years and graduated from Nanjing University in China.
 
 <br>
-<br>
 
 #### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
