@@ -1,7 +1,7 @@
-##### 🚀 Languages  
+#### 🚀 Languages  
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
 
-##### ⚙️ Game Engine
+#### ⚙️ Game Engine
 
 <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 <br>
