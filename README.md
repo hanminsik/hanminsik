@@ -8,6 +8,8 @@
 #### 💻 IDE
 <img src="https://img.shields.io/badge/Rider-fc0d3d?&style=for-the-badge&logo=rider&logoColor=white"/>
 
+#### 🎨 Design
+
 
 #### 🛠 Tool
 
