@@ -6,6 +6,8 @@ I'm HAN Minsik.
 
 ---
 
+<br>
+
 #### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
 
@@ -25,6 +27,8 @@ I'm HAN Minsik.
 
 #### 🖥️ Equipment
 <img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Ryzen_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+<br>
 
 ---
 
