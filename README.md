@@ -49,7 +49,9 @@ No Activity tracked this Week
 <details>
     <summary> 🔥 &nbsp;Etc...</summary>
 
-- Member of Mensa Korea
+<br>
+
+- Member of Mensa Korea (2014 ~ )
 
 </details>
 
