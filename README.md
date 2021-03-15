@@ -34,7 +34,11 @@
 <details>
     <summary> 🔥 &nbsp;Streak </summary>
 
+<br>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
+
+<br>
 
 <!--START_SECTION:waka-->
 ```text
