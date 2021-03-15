@@ -2,7 +2,7 @@
 
 I'm Game Developer, Entrepreneur, Blood Donor(every two weeks), Game Enthusiast, Chess Enthusiast.
 <br>
-Former Republic of Korea Army infantry fighting vehicle pilot
+Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
 I lived in China for 6 years and graduated from Nanjing University in China.
 
