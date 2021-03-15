@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 
-I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Chess Enthusiast, Blood Donor.
+I'm Game Developer, Pixel Artist, Entrepreneur, Gamer, Blood Donor.
 <br>
 Former Republic of Korea Army K263 Anti-Aircraft Vehicles Driver.
 <br>
