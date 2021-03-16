@@ -47,7 +47,7 @@ No Activity tracked this Week
 ---
 
 <details>
-    <summary> 🔥 &nbsp;etc.</summary>
+    <summary> 📦 &nbsp;etc.</summary>
 
 <br>
 
