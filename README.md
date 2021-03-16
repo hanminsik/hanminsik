@@ -14,7 +14,7 @@ Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+Sout
 
 #### ⚙️ &nbsp;Game Engine
 
-<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+[<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>](https://unity.com/)
 
 #### 🛠 &nbsp;IDE
 <img src="https://img.shields.io/badge/Rider-000000?&style=for-the-badge&logo=rider&logoColor=white"/>
