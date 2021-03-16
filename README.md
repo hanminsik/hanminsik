@@ -1,26 +1,26 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 
-#### 💻 Game Developer &nbsp;  &nbsp; 🖍 Pixel Artist &nbsp;  &nbsp; 🕹 Gamer &nbsp;  &nbsp; 🩸Blood Donor.
+### 💻 Game Developer &nbsp;  &nbsp; 🖍 Pixel Artist &nbsp;  &nbsp; 🕹 Gamer &nbsp;  &nbsp; 🩸Blood Donor.
 
 I pursue to make a game that can give happiness to people.  
 Lived in China for 6 years and graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China.
 Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Korea/@34.1637948,97.7937369,3.19z/data=!4m5!3m4!1s0x357ca2012d5c39cf:0x7e11eca1405bf29b!8m2!3d37.566535!4d126.9779692?hl=en).
 <br>
 
-### 🚀 &nbsp;Language
+#### 🚀 &nbsp;Language
 <img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
 
-### ⚙️ &nbsp;Game Engine
+#### ⚙️ &nbsp;Game Engine
 
 <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
-### 🛠 &nbsp;IDE
+#### 🛠 &nbsp;IDE
 <img src="https://img.shields.io/badge/Rider-000000?&style=for-the-badge&logo=rider&logoColor=white"/>
 
-### 🎨 &nbsp;Design
+#### 🎨 &nbsp;Design
 <img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
-### 🖥️ &nbsp;Equipment
+#### 🖥️ &nbsp;Equipment
 <img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-AMD_RYZEN_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Android-Galaxy_Note_10_/_Tab_A-1428A0?style=for-the-badge&logo=android&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/> <img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/> <img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>
 
