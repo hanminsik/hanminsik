@@ -2,6 +2,7 @@
 
 <h3 align="center">💻 Game Developer &nbsp;  &nbsp; 🖍 Pixel Artist &nbsp;  &nbsp; 🕹 Gamer &nbsp;  &nbsp; 🩸Blood Donor.</h3>
 <br>
+
 I pursue to make a game that can give happiness to people.  
 In 2012, I went to China to study abroad and Graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm).
 Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Korea/@34.1637948,97.7937369,3.19z/data=!4m5!3m4!1s0x357ca2012d5c39cf:0x7e11eca1405bf29b!8m2!3d37.566535!4d126.9779692?hl=en).
