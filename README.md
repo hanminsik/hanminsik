@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 
-Game Developer, Pixel Artist, Gamer, and Blood Donor.
+**Game Developer**, **Pixel Artist**, **Gamer**, and **Blood** Donor.
 <br>
 I pursue to make a game that can give happiness to people.
 <br>
