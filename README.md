@@ -17,7 +17,7 @@ Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+Sout
 [<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>](https://unity.com/)
 
 #### 🛠 &nbsp;IDE
-<img src="https://img.shields.io/badge/Rider-000000?&style=for-the-badge&logo=rider&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Rider-000000?&style=for-the-badge&logo=rider&logoColor=white"/>](https://www.jetbrains.com/rider/)
 
 #### 🎨 &nbsp;Design
 <img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
