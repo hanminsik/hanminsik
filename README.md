@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px">, I'm HAN Minsik</h1>
 
-<center>### 💻 Game Developer &nbsp;  &nbsp; 🖍 Pixel Artist &nbsp;  &nbsp; 🕹 Gamer &nbsp;  &nbsp; 🩸Blood Donor.</center>
+### 💻 Game Developer &nbsp;  &nbsp; 🖍 Pixel Artist &nbsp;  &nbsp; 🕹 Gamer &nbsp;  &nbsp; 🩸Blood Donor.
 
 I pursue to make a game that can give happiness to people.  
 Graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China. Lived in China for 6 years.
