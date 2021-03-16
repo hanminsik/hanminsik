@@ -10,7 +10,7 @@ Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+Sout
 ---
 
 #### 🚀 &nbsp;Language
-<img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>
+[<img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>]()
 
 #### ⚙️ &nbsp;Game Engine
 
