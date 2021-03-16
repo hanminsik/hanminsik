@@ -51,7 +51,7 @@ No Activity tracked this Week
 
 <br>
 
--Former Republic of Korea Army [K263 Anti-Aircraft Vehicles](https://www.google.com/search?q=K263+Anti-Aircraft+Vehicles&client=firefox-b-d&source=lnms&tbm=isch&biw=1278&bih=1244) Driver.
+- Former Republic of Korea Army [K263 Anti-Aircraft Vehicles](https://www.google.com/search?q=K263+Anti-Aircraft+Vehicles&client=firefox-b-d&source=lnms&tbm=isch&biw=1278&bih=1244) Driver.
 - Member of Mensa Korea (2014 ~ )
 
 </details>
