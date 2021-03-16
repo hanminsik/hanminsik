@@ -24,7 +24,7 @@ Now I live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+Sout
 
 #### 🖥️ &nbsp;Equipment
 [<img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/>](https://www.theverge.com/2018/11/16/18097117/apple-mac-mini-2018-review-upgrade-faster-more-powerful-features-price) [<img src="https://img.shields.io/badge/Windows-AMD_RYZEN_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>](https://www.amd.com/en/products/apu/amd-ryzen-3-3200g) [<img src="https://img.shields.io/badge/Android-Galaxy_Note_10-1428A0?style=for-the-badge&logo=android&logoColor=white"/>](https://www.samsung.com/us/mobile/galaxy-note10/)<br>
-<img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/> <img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/> <img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/>](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) <img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/> <img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 
 ---
