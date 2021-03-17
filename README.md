@@ -22,8 +22,12 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 #### 🎨 &nbsp;Graphic Design
 [<img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/>](https://www.aseprite.org/) [<img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>](https://www.adobe.com/products/photoshop.html)
 
+---
+
 <details>
     <summary> 🖥️ &nbsp;Equipment</summary>
+
+<br>
 
 [<img src="https://img.shields.io/badge/Apple-Mac_Mini_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/>](https://www.theverge.com/2018/11/16/18097117/apple-mac-mini-2018-review-upgrade-faster-more-powerful-features-price) [<img src="https://img.shields.io/badge/Windows-AMD_RYZEN_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>](https://www.amd.com/en/products/apu/amd-ryzen-3-3200g)<br>[<img src="https://img.shields.io/badge/Android-Galaxy_Note_10-1428A0?style=for-the-badge&logo=android&logoColor=white"/>](https://www.samsung.com/us/mobile/galaxy-note10/) [<img src="https://img.shields.io/badge/Tab_A_10.1-1428A0?style=for-the-badge&logo=android&logoColor=white"/>](https://www.samsung.com/us/mobile/tablets/galaxy-tab-a/galaxy-tab-a-10-1-2019-64gb-black-wi-fi-sm-t510nzkfxar/)<br>
 [<img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/>](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) [<img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/>](https://www.logitechg.com/en-in/products/gaming-mice/g102-lightsync-rgb-gaming-mouse.910-005803.html) [<img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>](https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard)<br>
