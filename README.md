@@ -61,7 +61,6 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <br><br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
-<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/>
 
 
 </details>
