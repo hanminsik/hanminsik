@@ -64,9 +64,6 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <br><br>
 [<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/)
-<br><br>
-[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>](https://slack.com/)
-[<img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>](https://trello.com/)
 
 
 </details>
