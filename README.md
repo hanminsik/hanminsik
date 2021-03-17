@@ -48,25 +48,25 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 [<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>](https://jquery.com/)
 [<img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>](https://jekyllrb.com/)
 <br><br>
-<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white"/>](https://www.alibabacloud.com)
+[<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>](https://www.digitalocean.com/)
+[<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>](https://www.netlify.com/)
+[<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>](https://aws.amazon.com)
 <br><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Desktop-7d05fc?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/GitHub_Desktop-7d05fc?style=for-the-badge&logo=github&logoColor=white"/>](https://desktop.github.com/)
+[<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/>](https://www.gitkraken.com/)
 <br><br>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
+[<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
+[<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white"/>](https://atom.io/)
+[<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>](https://visualstudio.microsoft.com/)
+[<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>](https://www.jetbrains.com/webstorm/)
 <br><br>
-<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+[<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/)
+[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/)
 <br><br>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>](https://slack.com/)
+[<img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>](https://trello.com/)
 
 
 </details>
