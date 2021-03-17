@@ -51,7 +51,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alibaba_Cloud-#FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alibaba_Cloud-#FF6A00?style=for-the-badge&logo=alibaba&logoColor=white"/>
 <br><br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <br><br>
