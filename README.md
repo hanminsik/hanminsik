@@ -105,9 +105,9 @@ C#   33 mins         ███████████████████�
 
 <br>
 
-- Former Republic of Korea Army [K263 Anti-Aircraft Vehicles](https://raw.githubusercontent.com/hanminsik/hanminsik/main/k263.jpg) Driver.
+- Former Republic of Korea Army [K263 Anti-Aircraft Vehicles](https://raw.githubusercontent.com/hanminsik/hanminsik/main/k263.jpg) Driver
 - Member of [Mensa](https://www.mensa.org/mensa/about-us) Korea
-- Graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China.
+- Graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China
 
 </details>
 
