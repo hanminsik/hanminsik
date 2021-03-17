@@ -22,6 +22,15 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 #### 🎨 &nbsp;Graphic Design
 [<img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/>](https://www.aseprite.org/) [<img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>](https://www.adobe.com/products/photoshop.html)
 
+<details>
+    <summary> 🖥️ &nbsp;Things I've ever used</summary>
+
+<br>
+
+hi
+
+</details>
+
 ---
 
 <details>
