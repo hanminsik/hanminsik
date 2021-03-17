@@ -36,6 +36,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 </details>
 
 ---
+
 <details>
     <summary> 🔥 &nbsp;Commit Streak</summary>
 
