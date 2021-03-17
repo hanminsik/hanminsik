@@ -47,6 +47,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <br><br>
+<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br><br>
@@ -55,12 +56,13 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <br><br>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
+<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/>
+
 
 </details>
 
