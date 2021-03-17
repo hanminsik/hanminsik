@@ -31,8 +31,6 @@ hi
 
 </details>
 
----
-
 <details>
     <summary> 🖥️ &nbsp;Equipment</summary>
 
@@ -43,8 +41,6 @@ hi
 [<img src="https://img.shields.io/badge/Razer_Panthera_Arcade_Stick-1ca600?style=for-the-badge&logo=razer&logoColor=white"/>](https://www.razer.com/console-controllers/razer-panthera/RZ06-02720100-R3U1)
 
 </details>
-
----
 
 <details>
     <summary> 🔥 &nbsp;Commit Streak</summary>
@@ -64,8 +60,6 @@ C#   33 mins         ███████████████████�
 
 </details>
 
----
-
 <details>
     <summary> 📦 &nbsp;etc.</summary>
 
@@ -77,4 +71,3 @@ C#   33 mins         ███████████████████�
 
 </details>
 
----
