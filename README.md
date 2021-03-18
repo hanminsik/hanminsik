@@ -92,7 +92,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 
 <!--START_SECTION:waka-->
 ```text
-C#   33 mins         █████████████████████████   100.00 % 
+C#   1 hr 24 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
