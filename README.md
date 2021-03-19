@@ -81,21 +81,6 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 </details>
 
 <details>
-    <summary> 🔥 &nbsp;Commit Streak</summary>
-
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanminsik&count_private=true&theme=radical" alt="hanminsik" />
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
-<details>
     <summary> 📦 &nbsp;etc.</summary>
 
 <br>
