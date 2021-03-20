@@ -88,7 +88,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 - Former Republic of Korea Army [K263 Anti-Aircraft Vehicles](https://raw.githubusercontent.com/hanminsik/hanminsik/main/k263.jpg) Driver
 - Member of [Mensa](https://www.mensa.org/mensa/about-us) Korea
 - Graduated from [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) in China
-- Taking a leave of absence from [Yonsei University](https://graduate.yonsei.ac.kr/graduate_en/index.do) in South Korea
+- Currently taking a leave of absence from [Yonsei University](https://graduate.yonsei.ac.kr/graduate_en/index.do) in South Korea
 
 </details>
 
