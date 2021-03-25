@@ -69,7 +69,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 </details>
 
 <details>
-    <summary> 🖥️ &nbsp;Equipment</summary>
+    <summary> 🖥️ &nbsp;<strong>Equipment</strong></summary>
 
 <br>
 
@@ -81,7 +81,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 </details>
 
 <details>
-    <summary> 📦 &nbsp;etc.</summary>
+    <summary> 📦 &nbsp;<strong>etc.</strong></summary>
 
 <br>
 
