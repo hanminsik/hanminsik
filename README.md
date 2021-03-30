@@ -7,6 +7,8 @@ I pursue to make a game that can give happiness to people.
 Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Korea/@34.1637948,97.7937369,3.19z/data=!4m5!3m4!1s0x357ca2012d5c39cf:0x7e11eca1405bf29b!8m2!3d37.566535!4d126.9779692?hl=en).
 <br>
 
+<img src="https://ghchart.rshah.org/hanminsik" alt="chart">
+
 ---
 
 #### 🚀 &nbsp;Language
