@@ -38,7 +38,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 [<img src="https://img.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white"/>](https://www.apple.com/macos/big-sur/)
 [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>](https://ubuntu.com/)
 [<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>](https://linuxmint.com/)
-[<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>](https://en.wikipedia.org/wiki/IOS)
+[<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>](https://www.apple.com/ios/ios-14/)
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>](https://www.android.com/)
 <br><br>
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
