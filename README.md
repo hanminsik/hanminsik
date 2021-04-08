@@ -24,7 +24,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 [<img src="https://img.shields.io/badge/Rider-000000?&style=for-the-badge&logo=rider&logoColor=white"/>](https://www.jetbrains.com/rider/)
 
 #### 🎨 &nbsp;Graphic Design
-[<img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/>](https://www.aseprite.org/) [<img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>](https://www.adobe.com/products/photoshop.html)
+[<img src="https://img.shields.io/badge/Aseprite-7D929E?&style=for-the-badge&logo=aseprite&logoColor=white"/>](https://www.aseprite.org/) 
 
 ---
 
@@ -65,6 +65,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 [<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white"/>](https://atom.io/)
 [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>](https://visualstudio.microsoft.com/)
 [<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>](https://www.jetbrains.com/webstorm/)
+[<img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>](https://www.adobe.com/products/photoshop.html)
 <br><br>
 [<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/)
