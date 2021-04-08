@@ -82,7 +82,7 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 <br><br>
 [<img src="https://img.shields.io/badge/Bose_QC35_||-000000?style=for-the-badge&logo=bose&logoColor=white"/>](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) [<img src="https://img.shields.io/badge/Logitech_G102-00B8FC?style=for-the-badge&logo=logitech&logoColor=white"/>](https://www.logitechg.com/en-in/products/gaming-mice/g102-lightsync-rgb-gaming-mouse.910-005803.html) 
 <br>
-[<img src="https://img.shields.io/badge/Varmilo_VA87M_Cherry_MX_Black-999999?style=for-the-badge&logo=v&logoColor=white"/>](https://funkeys.co.kr/shop/item.php?it_id=1546997817&ca_id=10) [<img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>](https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard)<br>
+[<img src="https://img.shields.io/badge/Varmilo_VA87M_Cherry_MX_Black-333333?style=for-the-badge&logo=v&logoColor=white"/>](https://funkeys.co.kr/shop/item.php?it_id=1546997817&ca_id=10) [<img src="https://img.shields.io/badge/Keychron_K1-000000?style=for-the-badge&logo=keras&logoColor=white"/>](https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard)<br>
 [<img src="https://img.shields.io/badge/Razer_Panthera_Arcade_Stick-1ca600?style=for-the-badge&logo=razer&logoColor=white"/>](https://www.razer.com/console-controllers/razer-panthera/RZ06-02720100-R3U1)
 
 </details>
