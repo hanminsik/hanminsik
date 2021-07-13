@@ -9,9 +9,6 @@ Live in [Seoul, South Korea](https://www.google.com/maps/place/Seoul,+South+Kore
 
 ---
 
-<img src="https://ghchart.rshah.org/hanminsik" alt="chart">
-
----
 
 #### 🚀 &nbsp;Language
 [<img src="https://img.shields.io/badge/C&thinsp;%23-7F00FF?style=for-the-badge&logo=.net&logoColor=white?"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
